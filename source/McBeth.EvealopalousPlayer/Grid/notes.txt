@@ -1,0 +1,234 @@
+﻿http://evealopalous.com/phpfile.php?ticket=650&grid_id=1&grid_base_id=4&grid_square=4
+
+ticket is the ticket number, 650 means load the whole grid, less than that means to purchase that ticket
+
+grid_id is the current game number, 1 mean in conjunction with a ticket of 650 means get the current game
+
+
+grid_square and grid_base_id appear to be the same
+1 = The Slums Grid
+2 = Polarity Gird
+3 = Vector X Grid
+4 = Spacewalk Grid
+
+Timeout is 4000 ms
+
+<div class="grid_squares">
+	<div class="grid_title">The Slums Grid #862</div>
+			<div class="grid_description">
+				• 10,000 isk per block<br />
+				• 25 hidden awards<br />
+				• x1 164,000 isk award<br />
+				• x2 82,000 isk awards<br />
+				• x4 41,000 isk awards<br />
+				• x8 20,250 isk awards<br />
+				• x10 16,200 isk awards<br />
+				• When all awards are found, grid resets!<br />
+				• No need to click all losing blocks!<br />
+				• EVEalopalous <strong>CAN</strong> take a loss on this! Happy winnings!<br />
+				• There are other players playing on the same grid!</div>
+	<div class="grid_message">21/25 Prizes Left!</div>
+							<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(1, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(2, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(3, 862, 1, 1)"></a>				<a
+				 style="background-color:#730000"				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(4, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(5, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(6, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(7, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(8, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(9, 862, 1, 1)"></a>				<a
+				 style="background-color:#730000"				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(10, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(11, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(12, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(13, 862, 1, 1)"></a>				<a
+				 style="background-color:#730000"				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(14, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(15, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(16, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(17, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(18, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(19, 862, 1, 1)"></a>				<a
+				 style="background-color:#730000"				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(20, 862, 1, 1)"></a>				<a
+				 style="background-color:#730000"				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(21, 862, 1, 1)"></a>				<a
+				 style="background-color:#730000"				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(22, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(23, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(24, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(25, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(26, 862, 1, 1)"></a>				<a
+				 style="background-color:#730000"				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(27, 862, 1, 1)"></a>				<a
+				 				 style="background-color:#F7BB09"				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(28, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(29, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(30, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(31, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(32, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(33, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(34, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(35, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(36, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(37, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(38, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(39, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(40, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(41, 862, 1, 1)"></a>				<a
+				 style="background-color:#730000"				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(42, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(43, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(44, 862, 1, 1)"></a>				<a
+				 				 style="background-color:#F7BB09"				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(45, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(46, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(47, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(48, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(49, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(50, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(51, 862, 1, 1)"></a>				<a
+				 style="background-color:#730000"				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(52, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(53, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(54, 862, 1, 1)"></a>				<a
+				 				 style="background-color:#F7BB09"				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(55, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(56, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(57, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(58, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(59, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(60, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(61, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(62, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(63, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(64, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(65, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(66, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(67, 862, 1, 1)"></a>				<a
+				 style="background-color:#730000"				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(68, 862, 1, 1)"></a>				<a
+				 style="background-color:#730000"				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(69, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(70, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(71, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(72, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(73, 862, 1, 1)"></a>				<a
+				 				 style="background-color:#F7BB09"				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(74, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(75, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(76, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(77, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(78, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(79, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(80, 862, 1, 1)"></a>				<a
+				 style="background-color:#730000"				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(81, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(82, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(83, 862, 1, 1)"></a>				<a
+				 style="background-color:#730000"				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(84, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(85, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(86, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(87, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(88, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(89, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(90, 862, 1, 1)"></a>				<a
+				 style="background-color:#730000"				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(91, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(92, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(93, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(94, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(95, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(96, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(97, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(98, 862, 1, 1)"></a>				<a
+				 				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(99, 862, 1, 1)"></a>				<a
+				 style="background-color:#730000"				 				 href="javascript:void(0)" 
+				 onclick="loadXMLDoc(100, 862, 1, 1)"></a>				
+				<div class="clear"></div>
+				<div class="grid_description">* Prizes are shown and awarded after all awards are found.</div>
+			</div>
